@@ -1,7 +1,7 @@
 # NBA_Repository
 
 
-This project is designed to automate the extraction, transformation, and loading (ETL) process for NBA player performance data. By harnessing the `nba_api` Python package, this pipeline updates daily, offering insights into the movements and rankings of the top 500 NBA players.
+This project is designed to automate the extraction, transformation, and loading (ETL) process for NBA player performance data. By harnessing the `nba_api` Python package, specifically the [leagueleaders endpoint](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/leagueleaders.md)this pipeline updates daily, offering insights into the movements and rankings of the top 500 NBA players.
 
 ## Project Overview
 
